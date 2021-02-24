@@ -1,8 +1,8 @@
 # Solidity
 
-Created an ethereum comptaible blockchain contract to distribute profits and equity to eligible<br>
+Created an ethereum compatible blockchain contract to distribute profits and equity to eligible<br>
 company employees.  To demonstrate we created three different contracts, an equal profit<br>
-splitter, a tiered profit splitter, and a contract that distrubutes shares in a company after a<br>
+splitter, a tiered profit splitter, and a contract that distributes shares in a company after a<br>
 prescribed time period.<br>
 
 The first contract splits the profits (an amoutn we define) equally between three employees.<br>
